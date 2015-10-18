@@ -1,13 +1,10 @@
 package com.nelswadycki.java.tests;
 
-import java.util.concurrent.TimeUnit;
-
 /**
  * Description: Speed/performance tests for Autoboxing of Integers.
  *
- * @author <a href="mailto:nwadycki@gohealth.com">Nels Wadycki</a>
+ * @author <a href="mailto:nels.wadycki@gmail.com">Nels Wadycki</a>
  */
-
 public class IntegerAutoboxingTest {
 
     public static void main(String args[]) {
