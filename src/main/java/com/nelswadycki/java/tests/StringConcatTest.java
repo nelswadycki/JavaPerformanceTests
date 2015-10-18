@@ -1,3 +1,5 @@
+package com.nelswadycki.java.tests;
+
 public class StringConcatTest {
 
     public static void main(String[] args) {
